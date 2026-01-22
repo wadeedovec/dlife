@@ -1,0 +1,5 @@
+NSLocationWhenInUseUsageDescription = "Yakınınızdaki tesisleri göstermek ve deneyiminizi geliştirmek için konumunuzu kullanır.";
+NSCameraUsageDescription = "Profiliniz için fotoğraf çekmenize veya destek için fotoğraf göndermenize olanak tanır.";
+NSPhotoLibraryUsageDescription = "Profiliniz için fotoğraf yüklemenize veya desteğe fotoğraf göndermenize olanak tanır.";
+NSMicrophoneUsageDescription = "lütfen açın";
+PermissionGroupNotification = "D-Life'taki son güncellemeleri almak için lütfen bildirimleri etkinleştirin.";

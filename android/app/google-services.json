@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "906574373905",
+    "project_id": "d-life-admin-panel-fusz0w",
+    "storage_bucket": "d-life-admin-panel-fusz0w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906574373905:android:538fc7cd83d4b770733db0",
+        "android_client_info": {
+          "package_name": "com.mycompany.adminpos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZzmXhUDBrCHRjKZNwludEH9cApivAkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906574373905:android:48dd491b4a115697733db0",
+        "android_client_info": {
+          "package_name": "com.mycompany.dlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZzmXhUDBrCHRjKZNwludEH9cApivAkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906574373905:android:843c5b4a13938c53733db0",
+        "android_client_info": {
+          "package_name": "com.mycompany.dlifeadminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZzmXhUDBrCHRjKZNwludEH9cApivAkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+NSLocationWhenInUseUsageDescription = "Uses your location to show nearby facilities and enhance your experience.";
+NSCameraUsageDescription = "Allows you to take photos for your profile or submitting a photo to support.";
+NSPhotoLibraryUsageDescription = "Allows you to upload photos for your profile or submitting a photo to support.";
+NSMicrophoneUsageDescription = "please turn on";
+PermissionGroupNotification = "Please enable notifications to get the latest updates on D-Life.";

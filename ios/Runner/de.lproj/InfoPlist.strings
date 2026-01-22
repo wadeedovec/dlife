@@ -1,0 +1,5 @@
+NSLocationWhenInUseUsageDescription = "Verwendet Ihren Standort, um Einrichtungen in der Nähe anzuzeigen und Ihr Erlebnis zu verbessern.";
+NSCameraUsageDescription = "Ermöglicht Ihnen, Fotos für Ihr Profil aufzunehmen oder ein Foto an den Support zu senden.";
+NSPhotoLibraryUsageDescription = "Ermöglicht Ihnen, Fotos für Ihr Profil hochzuladen oder ein Foto an den Support zu senden.";
+NSMicrophoneUsageDescription = "bitte einschalten";
+PermissionGroupNotification = "Bitte aktivieren Sie Benachrichtigungen, um die neuesten Updates zu D-Life zu erhalten.";
